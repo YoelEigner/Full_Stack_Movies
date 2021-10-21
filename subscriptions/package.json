@@ -1,0 +1,20 @@
+{
+  "name": "fullstack-p1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon main"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.4",
+    "cores": "^0.8.5",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "jsonfile": "^6.1.0",
+    "mongoose": "^6.0.10",
+    "nodemon": "^2.0.13"
+  }
+}
